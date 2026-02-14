@@ -35,8 +35,6 @@ Proje çalıştırıldığında `temiz_guvenlik_loglari.csv` adında temizlenmi�
 
 ---
 
-*Geliştirici: [Muhammed Emir Tohumcu/Myrrion]*
-
 ## 📊 Görsel Analizler
 
 Proje çıktısı olan grafikler aşağıdadır:
@@ -49,3 +47,8 @@ Proje çıktısı olan grafikler aşağıdadır:
 
 ### 3. Risk Puanı Dağılımı
 ![Risk Dağılımı](risk_dagilimi.png)
+
+*Geliştirici: [Muhammed Emir Tohumcu/Myrrion]*
+
+
+

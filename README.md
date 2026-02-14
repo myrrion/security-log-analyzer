@@ -34,4 +34,18 @@ Bu proje, yapay zeka ve veri bilimi teknikleri kullanılarak siber güvenlik log
 Proje çalıştırıldığında `temiz_guvenlik_loglari.csv` adında temizlenmiş bir veri seti oluşturur ve saldırı analiz grafiklerini ekrana yansıtır (veya `png` olarak kaydeder).
 
 ---
+
 *Geliştirici: [Muhammed Emir Tohumcu/Myrrion]*
+
+## 📊 Görsel Analizler
+
+Proje çıktısı olan grafikler aşağıdadır:
+
+### 1. Saldırı Türleri Dağılımı
+![Saldırı Türleri](saldiri_turleri.png)
+
+### 2. Saldırı ve Engellenme Durumu
+![Engellenme Durumu](saldırı_türleri_engelleme_durumu.png)
+
+### 3. Risk Puanı Dağılımı
+![Risk Dağılımı](risk_dagilimi.png)
